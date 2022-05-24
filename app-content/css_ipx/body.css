@@ -1,0 +1,18 @@
+
+@import "keyframes.css";
+@import "terminal.css";/* terminal */
+img.pfil{max-width: 150px;max-height:150px;margin:5px;}
+div.cente{display:inline-flex;font-size:19px;margin:10px;text-align: start;}
+body{margin:0;overflow-x: hidden;font: normal 20pt monospace;}
+a{text-decoration: none;color:white;}
+section.header{padding:20px;color:white;background:#1B1B1B;}
+section.block-head{font: normal 22px monospace;}
+b.co-point{color:purple; margin:0;}
+section.body-front{width: 100%;height:22rem;background: rgb(255,255,255);background: linear-gradient(288deg, rgba(255,255,255,1) 0%, rgba(136,1,136,1) 0%, rgba(252,101,252,1) 81%);}
+section.text-front{text-align: left;padding-top:130px;color:white;font:normal 20pt monospace;margin:0px 200px 00px;}
+section.body-about{background:rgb(241, 241, 241);max-width:100%;height:450px;margin:0px;position:relative;}
+section.rodape{z-index:1;background-color:rgb(20, 20, 20); height:50px;max-width:100%;padding:20px;text-align:center;position:static;bottom:-60px;border-right:5px solid rgb(20, 20, 20);margin:0;}
+h1.shift{margin:0;}
+span.title-d{left:-8px;position:relative;font-size:25px;color:mediumslateblue;}
+text.text-body-front{background-color:rgb(20, 20, 20);padding:5px 20px 5px;border-radius:5px;left:4px;position:relative;}
+text.text-body-bottom{background-color:whitesmoke;padding:5px 20px 5px;border-radius:5px;left:-7px;position:relative;top:20%;font:normal 15px monospace;}

@@ -1,0 +1,19 @@
+section.box-terminal{font-size:12px;border-top-left-radius:3px;border-top-right-radius:5px;box-shadow: 0 10px 18px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(0, 0, 0, 0.19);opacity:0.75;font-family:comic sans MS;background:black;max-width:400px;height:250px;overflow:hidden;position:relative;margin-left:60%;top:-7rem;color:rgb(172, 172, 172);}
+section.box-terminal-header{text-align:center;font:bold 12px monospace;color:rgb(131, 130, 130);padding:12px;background-image: linear-gradient(to right, #ffffff, #f3f3f3, #e7e7e7, #dbdbdb, #cfcfcf);border-top-left-radius:3px;border-top-right-radius:3px;} /*background:rgb(20, 20, 20);*/
+section.box-terminal-content{color:mediumslateblue;position:relative;left:10px;top:20px;}
+section.box-terminal-node{position:relative;text-align:left;display:inline-flex;left:1px;color:rgb(172, 172, 172);}
+section.box-terminal-text{left:10px;}
+section.box-terminal{animation-name: terminal;animation-duration: 3s;}
+
+section.box-terminal-comment{color:purple;font-family:comic sans MS; font-size:10px;}
+
+span.box-terminal-color-object{color:mediumslateblue;position:static;}
+span.tm-color{color:rgb(0, 248, 194);}
+div.tm-c-y{color:rgb(202, 41, 76);padding-left:5px;}
+div.tm-c-b{color:rgb(0, 248, 194);padding-left:5px;}
+span.tm-y-g{color:#FFD700;}
+section.buttons-terminal-flex{display:inline-flex;position: absolute;left:0;padding:0.5px 7px 0.5px;}
+div.btn-terminal-flex-close{background-color:#ff4040;border-radius:100%;width:12px;height:12px;margin:1.5px;}
+div.btn-terminal-flex-minimize{background:#ffb700;border-radius: 100%;width:12px;height:12px;margin:1.5px;}
+div.btn-terminal-flex-max{background:#00ae55;border-radius: 100%;width:12px;height:12px;margin:1.5px;}
+.twt-btm{color:rgb(2, 187, 147);}

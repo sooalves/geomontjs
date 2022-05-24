@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1000px) {
+    section.text-front{text-align: center;padding-top:100px;color:white;font:normal 20pt monospace;margin:auto;}
+    section.body-front{width: 100%;height:500px;background-color:purple;}
+    section.box-terminal{font-family:monospace;background:black;max-width:400px;height:250px;overflow:hidden;position:relative;margin:auto;top:1rem;color:rgb(172, 172, 172);}
+    @keyframes terminal {
+    0% {top:-25px;opacity:0;}
+    100% {top:15px;opacity:0.75;}
+    }
+}
